@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1742338578.62902 "c:/Users/Jordan/Documents/Projects/playground/main.tex" "main.pdf" "main" 1742338581.83534 0
-  "c:/Users/Jordan/Documents/Projects/playground/main.tex" 1742338573 3560 03d73164c10560aed94e68f0e7a22f63 ""
+["pdflatex"] 1742433623.84834 "c:/Users/Jordan/Documents/Projects/playground/main.tex" "main.pdf" "main" 1742433626.88883 0
+  "c:/Users/Jordan/Documents/Projects/playground/main.tex" 1742433621 3562 c4b6e3ba5835a04cd8efd0af9132a2c4 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1741590916 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1741586393 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm" 1741591260 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
@@ -164,8 +164,8 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1741592116 5512713 d5293fe2524c042fff1d1aaaba621917 ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741592478 3346131 1115803f805ad8a3728ea6eb313f3e70 ""
   "c:/texlive/2025/texmf.cnf" 1741592085 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1742338581 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "main.tex" 1742338573 3560 03d73164c10560aed94e68f0e7a22f63 ""
+  "main.aux" 1742433626 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1742433621 3562 c4b6e3ba5835a04cd8efd0af9132a2c4 ""
   (generated)
   "main.aux"
   "main.log"
