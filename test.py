@@ -8,4 +8,5 @@ Created on Tue Jun  3 19:14:20 2025
 x=5
 print(x)
 def f(x):
+    '''Return the square.'''
     return x ** 2
